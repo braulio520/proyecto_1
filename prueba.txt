@@ -1,0 +1,10 @@
+Hola, esto es una prueba para saber
+
+como utilizar Git para
+
+el control de versiones de codigo
+
+Prueba 2, necesito hacer cambios
+
+
+Estoy en la rama developer, para revisar las branch
